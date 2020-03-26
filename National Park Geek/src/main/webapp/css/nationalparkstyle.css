@@ -1,0 +1,209 @@
+@charset "UTF-8";
+
+header {
+	background: #FAFAD2;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-top: -10px;
+}
+
+header img {
+	height: 120px;
+	width: auto;
+	
+	
+}
+
+nav {
+	background: #FFDEAD;
+	font-size: 30px;
+	font-family: Arial;
+	font-weight: bold;
+	padding-left: 20px;
+	
+}
+
+.navlink {
+	text-decoration: none;
+	padding: 10px;
+	color: #9E5330;
+	
+}
+
+header a {
+	font size: 42px;
+}
+
+
+#imageFav {
+	width: 100%;
+}
+
+.parkNameFav {
+	text-align: center;
+}
+
+.parkSurveyQty {
+	text-align: center;
+}
+
+footer {
+	background: #FFDEAD;
+	margin-left: -10px;
+	margin-right: -10px;
+	height: 100%;
+	padding-left: 20px;
+	padding-top: 5px;
+	font-family: Arial;
+	
+}
+
+#spinda {
+	display: inline;
+	height: 25px;
+	margin-left: 10px;
+}
+
+.parkDetails {
+	display: flex;
+	margin-bottom: 15px;
+	font-family: Arial;
+	padding: 15px;
+	background-color: #FAFAD2;
+		
+}
+
+.detailFlex {
+	display: flex;
+	flex-direction: column;
+	margin-left: 15px;
+}
+
+main {
+	background-color: #9E5330;
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	margin-left: -10px;
+	margin-right: -10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.topSpace {
+	height: 15px;
+}
+
+.detailInfo {
+	display: flex;
+	background-color: #FAFAD2;
+}
+
+#detailFlexPage {
+	display: flex;
+	flex-direction: column;
+	margin-left: 15px;
+	font-family: Arial;
+	padding: 15px;
+}
+
+h4 {
+	padding-left: 75px;
+	font-size: 25px;
+	color: #FAFAD2;
+}
+
+.weatherInfo {
+	display: flex;
+	justify-content: space-around;
+	padding-left: 75px;
+	color: #FAFAD2;
+}
+
+.weatherImage {
+	width: 50%;
+}
+
+
+.weatherLayout {
+	width: 20%;
+}
+
+#temp {
+	padding-left: 75px;
+	padding-bottom: 15px;
+	margin-top: 15px;
+}
+
+#c {
+	margin-left: 20px;
+}
+
+#cels {
+	color: #FAFAD2;
+}
+
+#fahr {
+	color: #FAFAD2;
+}
+
+#submitButton {
+	margin-top: 15px;
+}
+
+* {
+	font-family: Arial;
+}
+
+.advisoryMessage {
+	width: 80%;
+}
+
+.parkNameFav {
+	background-color: #FAFAD2;
+}
+
+.parkSurveyQty {
+	background-color: #FAFAD2;
+}
+
+.parkImageFav {
+	background-color: #FAFAD2;
+}
+
+th {
+	color: #FAFAD2;
+}
+
+table {
+	width: 100%;
+}
+
+.empty {
+	width: 20%;
+}
+
+.tableHeader {
+	font-size: 20px;
+}
+
+td {
+	font-size: 20px;
+}
+
+.surveyPage {
+	
+}
+
+.favPark, .email, .state, .activityLevel, .submit {
+	background-color: #FAFAD2;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	
+}
+
+.favPark {
+	padding-top: 15px;
+}
